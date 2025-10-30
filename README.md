@@ -3,3 +3,20 @@
 A tool that is more like your assistant in examinations, the goal is to create a program in which you can upload previous year papers of your university, your syllabus and the program can help you find the recurring questions and topics they are from.
 
 But this shit will take time, so have patience, I'll try to complete this before my semester examination.
+
+## Features list
+
+1. Analyse questions, that are being repeated.
+2. Even questions that are paraphrased, but are the same.
+3. Analyse the syllabus, and tells what topic the questions belong to.
+4. Tell you what questions are being repeated, and what topic they are from.
+
+## Maybe possible features
+
+1. Trained on certain subjects and tells the answers to that questions.
+2. Maybe pulls the answers to that particular questions from the internet.
+3. So a complete guide.
+
+## Brainstorming
+
+Instead of training the model with language and stuff just have an inbuilt that is pre trained and does all the work by itself, and try to make it offline.
