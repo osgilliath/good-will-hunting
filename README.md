@@ -6,8 +6,8 @@ A tool that is more like your assistant in examinations, the goal is to create a
 But this shit will take time, so have patience, I'll try to complete this before my semester examination.
 
 ## Files- and what they do (for now)
-- model-import.py - importing and testing different models from hugging face, and trying what different pipelines do, to select the definitive one
-- img-to-text.py - reading text from .jpg or .png file (so that we can extract text from images in the program as well)
+- _model-import.py_ - importing and testing different models from hugging face, and trying what different pipelines do, to select the definitive one
+- _img-to-text.py_ - reading text from .jpg or .png file (so that we can extract text from images in the program as well)
 
 ## Features list
 
