@@ -22,4 +22,5 @@ But this shit will take time, so have patience, I'll try to complete this before
 
 Instead of training the model with language and stuff just have an inbuilt that is pre trained and does all the work by itself, and try to make it offline.
 
-HEY THERE! if you're reading this and have some suggestions or want to help, feel free to contact me through mail.
+HEY THERE! if you're reading this and have some suggestions or want to help, feel free to contact me through mail.<br/>
+[![Gmail Badge](https://img.shields.io/badge/-shankhdhar.madhav@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shankhdhar.madhav@gmail.com)](mailto:shankhdhar.madhav@gmail.com)
