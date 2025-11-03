@@ -5,11 +5,14 @@ A tool that is more like your assistant in examinations, the goal is to create a
 
 But this shit will take time, so have patience, I'll try to complete this before my semester examination.
 
+This stuff's harder than I thought.
+
 ## Files- and what they do (for now)
 - _model-import.py_ - importing and testing different models from hugging face, and trying what different pipelines do, to select the definitive one
-- _text-scanner.py_ - prompts you to select a file and reads text from it, no matter the format, img or pdf
--*Removed*  _img-to-text.py_ - reading text from .jpg or .png file (so that we can extract text from images in the program as well)
-- *Removed* _pdf-to-text.py_ - reading text from .pdf file, will make a single file that can check the format of the input file and extract text no matter what format, but mid sems now, so laterrrr
+- _text-scanner.py_ - prompts you to select a file and reads text from it, no matter the format, img or pdf.
+- **(Removed)**  _img-to-text.py_ - reading text from .jpg or .png file (so that we can extract text from images in the program as well)
+- **(Removed)** _pdf-to-text.py_ - reading text from .pdf file.
+
 
 ## Features list
 
