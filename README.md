@@ -10,6 +10,7 @@ This stuff's harder than I thought.
 ## Files- and what they do (for now)
 - _model-import.py_ - importing and testing different models from hugging face, and trying what different pipelines do, to select the definitive one
 - _text-scanner.py_ - prompts you to select a file and reads text from it, no matter the format, img or pdf.
+- _prediction.py_ - predicts a masked word in ypur given sentence.
 - **(Removed)**  _img-to-text.py_ - reading text from .jpg or .png file (so that we can extract text from images in the program as well)
 - **(Removed)** _pdf-to-text.py_ - reading text from .pdf file.
 
