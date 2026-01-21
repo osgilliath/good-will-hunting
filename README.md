@@ -7,7 +7,7 @@ But this shit will take time, so have patience, I'll try to complete this before
 
 This stuff's harder than I thought.
 
-_Model used:_ `xlm-roberta-base`
+_Model used:_ [`xlm-roberta-base`](https://huggingface.co/FacebookAI/xlm-roberta-base)
 
 imported using pipeline function of the `transformers` library
 
