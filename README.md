@@ -7,6 +7,10 @@ But this shit will take time, so have patience, I'll try to complete this before
 
 This stuff's harder than I thought.
 
+_Model used:_ `xlm-roberta-base`
+
+imported using pipeline function of the `transformers` library
+
 ## Files- and what they do (for now)
 - _model-import.py_ - importing and testing different models from hugging face, and trying what different pipelines do, to select the definitive one
 - _text-scanner.py_ - prompts you to select a file and reads text from it, no matter the format, img or pdf.
